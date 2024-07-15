@@ -14,6 +14,7 @@ module.exports = {
       },
       colors: {
         'custom-purple': '#0B0149',
+        'custom-yellow': '#F1C164',
       },
     },
   },
